@@ -1,5 +1,5 @@
 # Help Document
-
+## Developed by talented students Aakash Sai Unnam and Siddharth Bhandary
 In this project, we are going to build an application through which you can automatically get the name of the color by clicking on them.
 Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
 ## Packages:
@@ -26,8 +26,8 @@ https://user-images.githubusercontent.com/56875895/144826794-68b01088-5376-4742-
 
 
 ## Supervisor
-Dr. Siddhaling Urolagin,
-PhD, Post-Doc, (Machine Learning),
-dr.siddhaling@gmail.com,
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, (Machine Learning),\
+dr.siddhaling@gmail.com,\
 www.github.com/siddhaling
 www.researchreader.com
